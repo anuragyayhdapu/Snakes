@@ -1,0 +1,20 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770M (ID=0x11e0)
+    Vendor:   NVIDIA
+    VRAM:     3040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\Coding Stuff\Old Projects Backup\Games(exe)\Snakes(v2.0)\Snake(s)_Data\Managed\System.dll (this message is harmless)
